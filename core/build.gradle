@@ -1,0 +1,5 @@
+dependencies {
+    api(projects.infusor.api)
+    api(projects.atom.core)
+    implementation("io.github.classgraph:classgraph:latest.integration")
+}
