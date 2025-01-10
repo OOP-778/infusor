@@ -1,9 +1,9 @@
 import net.endergrid.atom.AtomImpl;
 import net.endergrid.atom.typetoken.TypeToken;
 import net.endergrid.atom.typetoken.TypeTokenMatcher;
-import net.endergrid.infusor.InfusorImpl;
-import net.endergrid.infusor.scope.InfusorDefaultScopes;
-import net.endergrid.infusor.scope.InfusorDefinedScope;
+import dev.oop778.infusor.InfusorImpl;
+import dev.oop778.infusor.scope.InfusorDefaultScopes;
+import dev.oop778.infusor.scope.InfusorDefinedScope;
 
 public class Test {
 

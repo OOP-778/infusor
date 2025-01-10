@@ -1,5 +1,5 @@
 import lombok.Getter;
-import net.endergrid.infusor.annotation.Infuse;
+import dev.oop778.infusor.annotation.Infuse;
 
 @Getter
 public class TestSingletonB {

@@ -1,7 +1,7 @@
-import net.endergrid.infusor.Infusor;
-import net.endergrid.infusor.annotation.Infusable;
-import net.endergrid.infusor.annotation.Infuse;
-import net.endergrid.infusor.annotation.Scoped;
+import dev.oop778.infusor.Infusor;
+import dev.oop778.infusor.annotation.Infusable;
+import dev.oop778.infusor.annotation.Infuse;
+import dev.oop778.infusor.annotation.Scoped;
 
 @Infusable
 public class TestListener {

@@ -1,4 +1,4 @@
-import net.endergrid.infusor.annotation.Infuse;
+import dev.oop778.infusor.annotation.Infuse;
 
 public class TestSingletonA {
 
